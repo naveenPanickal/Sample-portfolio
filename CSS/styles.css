@@ -68,6 +68,9 @@ a {
 .prog {
   font-weight: normal;
 }
+#row1{
+  padding-top:2%;
+}
 
 .skill-row {
   padding-top: 5%;
